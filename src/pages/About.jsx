@@ -36,8 +36,8 @@ const About = () => {
         <Link to="https://api.whatsapp.com/send/?phone=5492216411104&text&type=phone_number&app_absent=0" className={styles.redes}><FaWhatsapp /></Link> </p>
         <h3 className="card-text">Sitios Webs Desarrollados</h3>
         <ul class="list-group">
-    <li class="list-group-item"><Link to="https://netsurferlp.ar" className={styles.link}>NETSURFERLP</Link></li>
-    <li class="list-group-item"><Link to="https://netsurferlp.ar/cv/index.html#about"className={styles.link}>CV - PORTFOLIO</Link></li>
+    <li class="list-group-item"><Link to="https://www.netsurferlp.ar" className={styles.link}>NETSURFERLP</Link></li>
+    <li class="list-group-item"><Link to="https://www.netsurferlp.ar/cv/index.html#about"className={styles.link}>CV - PORTFOLIO</Link></li>
     <li class="list-group-item"><Link to="https://www.sacbunker.com.ar"className={styles.link}>SACBUNKER</Link></li>
     <li class="list-group-item"><Link to="https://www.bunkerstorage.com.ar"className={styles.link}>BUNKERSTORAGE</Link></li>
     <li class="list-group-item"><Link to="https://www.netsurferlp.ar/wordpress/"className={styles.link}>VERSION WORDPRESS</Link></li>
